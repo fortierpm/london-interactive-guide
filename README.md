@@ -24,6 +24,6 @@ One this page you can also take a review and bonus trivia quiz to level up your 
 ![Location Quiz Example Screenshot](https://i.imgur.com/6VM9DlQ.png)
 
 ## Guide Level
-Guide levels are global between the map and pin locations. Reaching certain levels reveals easter eggs such as two additional map pin locations at the top left corner as shown below. If decide to change your guide, however, the new guide's level is reset.
+Guide levels are global between the map and pin locations. Reaching certain levels reveals easter eggs such as two additional map pin locations at the top left corner (as shown below). If decide to change your guide, however, the new guide's level is reset.
 
 ![Global Guide Level System Screenshot](https://i.imgur.com/SZnAYVt.png)
