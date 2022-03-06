@@ -1,2 +1,2 @@
 # London Interactive Guide
-Introduction to python course final project.
+CSCI 121 - Introduction to Python final project.
